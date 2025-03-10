@@ -27,8 +27,8 @@ My main gameplay is creating custom controlled villages and assign my own buildi
 **Normans will have the priority, first them, then the others**
 
 ## Knowledge requirements
-* Know Millénaire works
-* Files manipulation (copy paste lol)
+* Know how Millénaire works
+* Know how manipulating files and what is a directory tree (and things like copy-paste O:)
 
 ## Required mods
 * WorldEdit (for bigger custom controlled farms)
