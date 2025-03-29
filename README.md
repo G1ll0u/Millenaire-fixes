@@ -1,15 +1,14 @@
-# Millénaire-fixes
+# Millénaire-[NAME NOT FOUND ALREADY]
 **Millénaire add-on that tweaks and eventually fixes some Millénaire incompatibilities with mods.**
 
-This is not a new custom culture, it modifies existing ones. I will maybe support modded ones but the priority is on norman culture for the moment
+This is not a new custom culture, it modifies existing ones. I will maybe support modded ones but my priority is on norman culture for the moment
 
 # Introduction
 I discovered a lot of things about how Millénaire cultures customization works and found that we can make this mod even more interesting.
 
 What I do here will eventually get documented in https://github.com/G1ll0u/Millenaire-documentation
 
-## What will it do ?
-My main gameplay is creating custom controlled villages and assign my own buildings to millagers. But I also play with Millénaire world generation on and noticed problems in both sides, and some can be fixed.
+## What will this add-on do ?
 
 **Highest priority**
 * Fix some modded blocks preventing placing buildings (considered as dangerous so they won't build)
@@ -20,13 +19,10 @@ My main gameplay is creating custom controlled villages and assign my own buildi
 **Medium priority**
 * Custom goals that makes villagers and children even more alive
   * make children play at specific places (with a new custom building name playground)
-  * 
 
 **Lower priority/unsure :**
-* Eventually fix some default Millénaire buildings to make them better integrate to the terrain when generating
-  * Replace dirt with a better looking block for some norman townhalls  
-
-**Normans will have the priority, first them.**
+* polish generated buildings
+  * Replace dirt with a better looking block for some norman townhalls
 
 ## Knowledge requirements
 * Know how Millénaire works
