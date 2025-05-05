@@ -25,6 +25,7 @@ What I do here will eventually get documented in https://github.com/G1ll0u/Mille
 **Lower priority/unsure :**
 * polish generated buildings
   * Replace dirt with a better looking block for some norman townhalls
+  * Create a full bandit culture
 
 **unrelated to this project**
 * Make 32x textures for villages that marry good with Conquest_ resource pack
