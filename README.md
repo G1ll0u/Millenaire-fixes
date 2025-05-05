@@ -26,6 +26,9 @@ What I do here will eventually get documented in https://github.com/G1ll0u/Mille
 * polish generated buildings
   * Replace dirt with a better looking block for some norman townhalls
 
+**unrelated to this project**
+* Make 32x textures for villages that marry good with Conquest_ resource pack
+
 ## Knowledge requirements
 * Know how Millénaire works (my documentation could help with that : https://github.com/G1ll0u/Millenaire-fixes/)
 * Manipulating files and know what is a directory lol (and things like copy-paste)
