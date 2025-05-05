@@ -1,0 +1,64 @@
+//Le joueur actuel contrôle les villages; Lors du chargement d'un monde joueur unique, migrer tout profile Millénaire existant vers le joueur actuel et lui donner le contrôle de tout village contrôlé existant.
+auto_convert_profiles=false
+
+//Distance min entre villages; Distance minimale entre deux villages générés. Défaut : 600.
+min_village_distance=450
+
+//Rayon des villages; Rayon des villages normaux (pas des hameaux). Défaut : 90.
+village_radius=120
+
+//Construire des chemins de village; Générer les chemins dans les nouveaux villages et les faire mettre à jour par les villageois.
+village_paths=false
+
+//Distance maximum pour progrès; Distance du point d'apparition à partir de laquelle les villages peuvent avoir le progrès initial maximum. Défaut : 10000.
+village_spawn_completion_max_distance=5000
+
+//Générer des villages avec hameaux; Générer des villages avec des hameaux autour. Prend beaucoup de place !
+generate_hamlets=true
+
+//config.generate_travel_book_export.label; config.generate_travel_book_export.desc:
+generate_travel_book_export=false
+
+//Afficher le texte au démarrage; Afficher la version de Millénaire et le statut de la Quête de la Création au démarrage.
+display_start=false
+
+//Apprentissage du Carnet de Voyage.; Que les descriptions des villageois, bâtiments,etc... dans le Carnet de Voyage soient révélées seulement après avoir rencontré le sujet en question.
+travel_book_learning=false
+
+//Générer des aides aux créateurs; Générer différentes aides (liste des objets connus, échantillon des couleurs, aide sur les tâches) utiles pour les créateurs
+generate_help_data=false
+
+//config.ignore_resource_cost.label; config.ignore_resource_cost.desc:
+ignore_resource_cost=true
+
+//Envoie de statistiques; Autoriser l'envoie de statistiques anonymes à Millénaire (version, langue...).
+send_statistics=false
+
+//Phrases dans le chat (solo); Distance maximale où afficher les phrases des villageois dans le chat en solo. Défaut : 5.
+villagers_sentence_in_chat_distance_sp=0
+
+//Distance min entre bâtiments; Distance minimale entre deux bâtiments d'un village. Défaut : 2.
+min_distance_between_buildings=1
+
+//Rayon de chargement des tronçons; Rayon autour du joueur dans lequel Millénaire essayera de garder les tronçons chargés. Défaut : 300.
+keep_active_radius=100
+
+//Nombre max d'enfants; Nombre maximal d'enfants dans un village. Défaut : 10.
+max_children_number=40
+
+//Progrès initial maximum; Progrès initial maximum (en %) qu'un village peut avoir si éloigné du point d'apparition. Défaut : 25.
+village_spawn_completion_max_percentage=50
+
+//Distance d'affichage des noms; Distance à laquelle les noms apparaissent. Défaut : 20.
+villagers_names_distance=5
+
+//Unique random identifier to count unique players if statistics are enabled
+random_uid=5283243555547665408
+
+//Advancement completed for anonymous statistics
+advancements_creative=firstcontact,cresus,summoningwand,amateurarchitect,thequest,explorer,marcopolo,scipio,friendindeed,rep_inuits,rep_byzantines,rep_norman,complete_norman,leader_norman
+
+//Advancement completed for anonymous statistics
+advancements_survival=firstcontact,explorer,marcopolo,selfdefense,cheers,friendindeed,rep_norman,complete_norman
+
+validation=346191744

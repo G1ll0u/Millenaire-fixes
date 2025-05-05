@@ -1,0 +1,1239 @@
+8.1.2 05-05-2025 15:06:16 Starting new session. Mods: me_byzantine Gillod 
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:materials
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:ingots
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:ingots
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:ingots
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:ingots
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:ingots
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:seared
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:smeltery_controller
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:seared_tank
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:smeltery_io
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:faucet
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:channel
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:casting
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:casting
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:edible
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:soil
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:ore
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: tconstruct:ore
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: variedcommodities:ingot_bronze
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: variedcommodities:ingot_steel
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:cuttingboarditem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:potitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:skilletitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:saucepanitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:mortarandpestleitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:mixingbowlitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:bakewareitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:juiceritem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:saltitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:butteritem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:flouritem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:doughitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:beefjerkyitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:beefwellingtonitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:cornedbeefitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:gourmetbeefpattyitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:breadedporkchopitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:spicymustardporkitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:apricotglazedporkitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:porksausageitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: harvestcraft:bbqpulledporkitem
+8.1.2 05-05-2025 15:06:19 ERROR: null: Could not load good: minecraft:golden_block
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Colour 215/217/20/d7d914 in line <goldore;minecraft:gold_ore;0;false;215/217/20> is already taken.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Colour 231/232/177/e7e8b1 in line <ironore;minecraft:iron_ore;0;false;231/232/177> is already taken.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Colour 8/8/5/80805 in line <coalore;minecraft:coal_ore;0;false;8/8/5> is already taken.
+8.1.2 05-05-2025 15:06:19 Exception when parsing blocklist line: seared_bricks;tconstruct:seared;3;false;1/50/1
+8.1.2 05-05-2025 15:06:19 java.lang.NullPointerException: Cannot invoke "net.minecraft.block.Block.func_176203_a(int)" because "this.block" is null
+	at org.millenaire.common.buildingplan.PointType.<init>(PointType.java:230)
+	at org.millenaire.common.buildingplan.PointType.readColourPoint(PointType.java:104)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPointsFile(BuildingPlan.java:279)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPoints(BuildingPlan.java:246)
+	at org.millenaire.common.forge.Mill.init(Mill.java:260)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:19 Exception when parsing blocklist line: smeltery_controller;tconstruct:smeltery_controller;0;false;1/50/2
+8.1.2 05-05-2025 15:06:19 java.lang.NullPointerException: Cannot invoke "net.minecraft.block.Block.func_176203_a(int)" because "this.block" is null
+	at org.millenaire.common.buildingplan.PointType.<init>(PointType.java:230)
+	at org.millenaire.common.buildingplan.PointType.readColourPoint(PointType.java:104)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPointsFile(BuildingPlan.java:279)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPoints(BuildingPlan.java:246)
+	at org.millenaire.common.forge.Mill.init(Mill.java:260)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:19 Exception when parsing blocklist line: seared_tank;tconstruct:seared_tank;0;false;1/50/3;tconstruct:seared_tank;0;1
+8.1.2 05-05-2025 15:06:19 java.lang.NullPointerException: Cannot invoke "net.minecraft.block.Block.func_176203_a(int)" because "this.block" is null
+	at org.millenaire.common.buildingplan.PointType.<init>(PointType.java:230)
+	at org.millenaire.common.buildingplan.PointType.readColourPoint(PointType.java:104)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPointsFile(BuildingPlan.java:279)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPoints(BuildingPlan.java:246)
+	at org.millenaire.common.forge.Mill.init(Mill.java:260)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:19 Exception when parsing blocklist line: smeltery_drain;tconstruct:smeltery_io;0;false;1/50/4
+8.1.2 05-05-2025 15:06:19 java.lang.NullPointerException: Cannot invoke "net.minecraft.block.Block.func_176203_a(int)" because "this.block" is null
+	at org.millenaire.common.buildingplan.PointType.<init>(PointType.java:230)
+	at org.millenaire.common.buildingplan.PointType.readColourPoint(PointType.java:104)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPointsFile(BuildingPlan.java:279)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPoints(BuildingPlan.java:246)
+	at org.millenaire.common.forge.Mill.init(Mill.java:260)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Line faucet;tconstruct:faucet;0;true;1/50/5; in blocklist.txt does not have five or eight fields.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Line castingchannel;tconstruct:channel;0;1/50/6 in blocklist.txt does not have five or eight fields.
+8.1.2 05-05-2025 15:06:19 Exception when parsing blocklist line: casting_table;tconstruct:casting;0;false;1/50/7
+8.1.2 05-05-2025 15:06:19 java.lang.NullPointerException: Cannot invoke "net.minecraft.block.Block.func_176203_a(int)" because "this.block" is null
+	at org.millenaire.common.buildingplan.PointType.<init>(PointType.java:230)
+	at org.millenaire.common.buildingplan.PointType.readColourPoint(PointType.java:104)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPointsFile(BuildingPlan.java:279)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPoints(BuildingPlan.java:246)
+	at org.millenaire.common.forge.Mill.init(Mill.java:260)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:19 Exception when parsing blocklist line: casting_basin;tconstruct:casting;1;false;1/50/8
+8.1.2 05-05-2025 15:06:19 java.lang.NullPointerException: Cannot invoke "net.minecraft.block.Block.func_176203_a(int)" because "this.block" is null
+	at org.millenaire.common.buildingplan.PointType.<init>(PointType.java:230)
+	at org.millenaire.common.buildingplan.PointType.readColourPoint(PointType.java:104)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPointsFile(BuildingPlan.java:279)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPoints(BuildingPlan.java:246)
+	at org.millenaire.common.forge.Mill.init(Mill.java:260)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:19 Exception when parsing blocklist line: grout;tconstruct:soil;0;false;1/50/9
+8.1.2 05-05-2025 15:06:19 java.lang.NullPointerException: Cannot invoke "net.minecraft.block.Block.func_176203_a(int)" because "this.block" is null
+	at org.millenaire.common.buildingplan.PointType.<init>(PointType.java:230)
+	at org.millenaire.common.buildingplan.PointType.readColourPoint(PointType.java:104)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPointsFile(BuildingPlan.java:279)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPoints(BuildingPlan.java:246)
+	at org.millenaire.common.forge.Mill.init(Mill.java:260)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Unknown block named tconstruct:smeltery_controller.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Unknown block named tconstruct:smeltery_controller.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Unknown block named tconstruct:smeltery_controller.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Unknown block named tconstruct:smeltery_controller.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Unknown block named tconstruct:smeltery_io.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Unknown block named tconstruct:smeltery_io.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Unknown block named tconstruct:smeltery_io.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Unknown block named tconstruct:smeltery_io.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Unknown block named tconstruct:faucet.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Unknown block named tconstruct:faucet.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Unknown block named tconstruct:faucet.
+8.1.2 05-05-2025 15:06:19 ERROR: null: Error when loading a block type: Unknown block named tconstruct:faucet.
+8.1.2 05-05-2025 15:06:19 Exception when parsing blocklist line: cobaltore;tconstruct:ore;0;false;1/50/22
+8.1.2 05-05-2025 15:06:19 java.lang.NullPointerException: Cannot invoke "net.minecraft.block.Block.func_176203_a(int)" because "this.block" is null
+	at org.millenaire.common.buildingplan.PointType.<init>(PointType.java:230)
+	at org.millenaire.common.buildingplan.PointType.readColourPoint(PointType.java:104)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPointsFile(BuildingPlan.java:279)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPoints(BuildingPlan.java:246)
+	at org.millenaire.common.forge.Mill.init(Mill.java:260)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:19 Exception when parsing blocklist line: arditeore;tconstruct:ore;1;false;1/50/23
+8.1.2 05-05-2025 15:06:19 java.lang.NullPointerException: Cannot invoke "net.minecraft.block.Block.func_176203_a(int)" because "this.block" is null
+	at org.millenaire.common.buildingplan.PointType.<init>(PointType.java:230)
+	at org.millenaire.common.buildingplan.PointType.readColourPoint(PointType.java:104)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPointsFile(BuildingPlan.java:279)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPoints(BuildingPlan.java:246)
+	at org.millenaire.common.forge.Mill.init(Mill.java:260)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:19 Exception, printing stack:
+8.1.2 05-05-2025 15:06:19 java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at org.millenaire.common.buildingplan.BuildingDevUtilities.generateColourSheetHandleFile(BuildingDevUtilities.java:318)
+	at org.millenaire.common.buildingplan.BuildingDevUtilities.generateColourSheet(BuildingDevUtilities.java:283)
+	at org.millenaire.common.buildingplan.BuildingPlan.loadBuildingPoints(BuildingPlan.java:256)
+	at org.millenaire.common.forge.Mill.init(Mill.java:260)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:cookarditeore.txt: Error when reading value 'arditeore' for parameter itemtocook: Unknown item: arditeore
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:cookarditeore.txt: Error when reading value 'arditeingot,20' for parameter townhalllimit: Unknown item: arditeingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:cookarditeore.txt: Error when reading value 'arditeingot,20' for parameter buildinglimit: Unknown item: arditeingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:cookarditeore.txt: Error when reading value 'arditeore' for parameter helditems: Unknown item: arditeore
+8.1.2 05-05-2025 15:06:20 ERROR: goal:cookarditeore.txt: The itemtocook id is mandatory in custom cooking goals.
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:cookcobaltore.txt: Error when reading value 'cobaltore' for parameter itemtocook: Unknown item: cobaltore
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:cookcobaltore.txt: Error when reading value 'cobaltingot,20' for parameter townhalllimit: Unknown item: cobaltingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:cookcobaltore.txt: Error when reading value 'cobaltingot,20' for parameter buildinglimit: Unknown item: cobaltingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:cookcobaltore.txt: Error when reading value 'cobaltore' for parameter helditems: Unknown item: cobaltore
+8.1.2 05-05-2025 15:06:20 ERROR: goal:cookcobaltore.txt: The itemtocook id is mandatory in custom cooking goals.
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:cookgrout.txt: Error when reading value 'grout' for parameter itemtocook: Unknown item: grout
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:cookgrout.txt: Error when reading value 'seared_brick,128' for parameter townhalllimit: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:cookgrout.txt: Error when reading value 'seared_brick,64' for parameter buildinglimit: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:cookgrout.txt: Error when reading value 'grout' for parameter helditems: Unknown item: grout
+8.1.2 05-05-2025 15:06:20 ERROR: goal:cookgrout.txt: The itemtocook id is mandatory in custom cooking goals.
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingbasin.txt: Error when reading value 'seared_brick,casting_basin' for parameter helditems: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingbasin.txt: Error when reading value 'seared_brick,8' for parameter input: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingbasin.txt: Error when reading value 'casting_basin,1' for parameter output: Unknown item: casting_basin
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingbasin.txt: Error when reading value 'casting_basin,10' for parameter buildinglimit: Unknown item: casting_basin
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingbasin.txt: Error when reading value 'casting_basin,10' for parameter townhalllimit: Unknown item: casting_basin
+8.1.2 05-05-2025 15:06:20 ERROR: goal:makecastingbasin.txt: Generic crafting goals require at least one output.
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingchannel.txt: Error when reading value 'seared_brick,castingchannel' for parameter helditems: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingchannel.txt: Error when reading value 'seared_brick,8' for parameter input: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingchannel.txt: Error when reading value 'castingchannel,1' for parameter output: Unknown item: castingchannel
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingchannel.txt: Error when reading value 'castingchannel,10' for parameter buildinglimit: Unknown item: castingchannel
+8.1.2 05-05-2025 15:06:20 ERROR: goal:makecastingchannel.txt: Generic crafting goals require at least one output.
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingtable.txt: Error when reading value 'seared_brick,casting_table' for parameter helditems: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingtable.txt: Error when reading value 'seared_brick,8' for parameter input: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingtable.txt: Error when reading value 'casting_table,1' for parameter output: Unknown item: casting_table
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingtable.txt: Error when reading value 'casting_table,10' for parameter buildinglimit: Unknown item: casting_table
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makecastingtable.txt: Error when reading value 'casting_table,10' for parameter townhalllimit: Unknown item: casting_table
+8.1.2 05-05-2025 15:06:20 ERROR: goal:makecastingtable.txt: Generic crafting goals require at least one output.
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makefaucet.txt: Error when reading value 'seared_brick,faucet' for parameter helditems: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makefaucet.txt: Error when reading value 'seared_brick,8' for parameter input: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makefaucet.txt: Error when reading value 'faucet,1' for parameter output: Unknown item: faucet
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makefaucet.txt: Error when reading value 'faucet,10' for parameter buildinglimit: Unknown item: faucet
+8.1.2 05-05-2025 15:06:20 ERROR: goal:makefaucet.txt: Generic crafting goals require at least one output.
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makegrout.txt: Error when reading value 'sand,grout' for parameter helditems: Unknown item: grout
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makegrout.txt: Error when reading value 'grout,2' for parameter output: Unknown item: grout
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makegrout.txt: Error when reading value 'grout,64' for parameter buildinglimit: Unknown item: grout
+8.1.2 05-05-2025 15:06:20 ERROR: goal:makegrout.txt: Generic crafting goals require at least one output.
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesearedbricks.txt: Error when reading value 'seared_brick,seared_bricks' for parameter helditems: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesearedbricks.txt: Error when reading value 'seared_brick,4' for parameter input: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesearedbricks.txt: Error when reading value 'seared_bricks,1' for parameter output: Unknown item: seared_bricks
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesearedbricks.txt: Error when reading value 'seared_bricks,128' for parameter buildinglimit: Unknown item: seared_bricks
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesearedbricks.txt: Error when reading value 'seared_bricks,128' for parameter townhalllimit: Unknown item: seared_bricks
+8.1.2 05-05-2025 15:06:20 ERROR: goal:makesearedbricks.txt: Generic crafting goals require at least one output.
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesearedtank.txt: Error when reading value 'seared_brick,seared_tank' for parameter helditems: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesearedtank.txt: Error when reading value 'seared_brick,8' for parameter input: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesearedtank.txt: Error when reading value 'seared_tank,1' for parameter output: Unknown item: seared_tank
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesearedtank.txt: Error when reading value 'seared_tank,10' for parameter buildinglimit: Unknown item: seared_tank
+8.1.2 05-05-2025 15:06:20 ERROR: goal:makesearedtank.txt: Generic crafting goals require at least one output.
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesmelterycontroller.txt: Error when reading value 'seared_brick,smeltery_controller' for parameter helditems: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesmelterycontroller.txt: Error when reading value 'seared_brick,8' for parameter input: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesmelterycontroller.txt: Error when reading value 'smeltery_controller,1' for parameter output: Unknown item: smeltery_controller
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesmelterycontroller.txt: Error when reading value 'smeltery_controller,10' for parameter buildinglimit: Unknown item: smeltery_controller
+8.1.2 05-05-2025 15:06:20 ERROR: goal:makesmelterycontroller.txt: Generic crafting goals require at least one output.
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesmelterydrain.txt: Error when reading value 'seared_brick,smeltery_drain' for parameter helditems: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesmelterydrain.txt: Error when reading value 'seared_brick,8' for parameter input: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesmelterydrain.txt: Error when reading value 'smeltery_drain,1' for parameter output: Unknown item: smeltery_drain
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:makesmelterydrain.txt: Error when reading value 'smeltery_drain,10' for parameter buildinglimit: Unknown item: smeltery_drain
+8.1.2 05-05-2025 15:06:20 ERROR: goal:makesmelterydrain.txt: Generic crafting goals require at least one output.
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:goplay.txt: Error when reading value 'leasure,playground' for parameter targetposition: Unknown position type: leasure,playground. It should be among: crafting defending leasure selling shelter sleeping .
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:mineardite.txt: Error when reading value 'arditeore,64' for parameter buildinglimit: Unknown item: arditeore
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:mineardite.txt: Error when reading value 'arditeore,50' for parameter townhalllimit: Unknown item: arditeore
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:mineardite.txt: Error when reading value 'arditeore,1' for parameter loot: Unknown item: arditeore
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:minecobalt.txt: Error when reading value 'cobaltore,64' for parameter buildinglimit: Unknown item: cobaltore
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:minecobalt.txt: Error when reading value 'cobaltore,50' for parameter townhalllimit: Unknown item: cobaltore
+8.1.2 05-05-2025 15:06:20 ERROR: null: goal:minecobalt.txt: Error when reading value 'cobaltore,1' for parameter loot: Unknown item: cobaltore
+8.1.2 05-05-2025 15:06:20 WARNING: Culture: bandits: No culture banner for culture bandits
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop armyforge.txt: goldhelmet
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop armyforge.txt: goldchest
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop armyforge.txt: goldlegs
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop armyforge.txt: goldboots
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop armyforge.txt: woodsword
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop armyforge.txt: goldsword
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop armyforge.txt: goldhelmet
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop armyforge.txt: goldchest
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop armyforge.txt: goldlegs
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop armyforge.txt: goldboots
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop armyforge.txt: woodsword
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop armyforge.txt: goldsword
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: seared_bricks
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: smeltery_controller
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: seared_tank
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: smeltery_drain
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: faucet
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: castingchannel
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: casting_table
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: casting_basin
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: bronzeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: steelingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: cobaltingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: arditeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: manyullyningot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: knightslimeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: pigironingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: seared_bricks
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: smeltery_controller
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: seared_tank
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: smeltery_drain
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: faucet
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: castingchannel
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: casting_table
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: casting_basin
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: bronzeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: steelingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: cobaltingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: arditeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: manyullyningot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: knightslimeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop forge.txt: pigironingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: seared_bricks
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: smeltery_controller
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: seared_tank
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: smeltery_drain
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: faucet
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: castingchannel
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: casting_table
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: casting_basin
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: bronzeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: steelingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: cobaltingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: arditeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: manyullyningotknightslimeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: pigironingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: seared_bricks
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: smeltery_controller
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: seared_tank
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: smeltery_drain
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: faucet
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: castingchannel
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: casting_table
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: casting_basin
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: bronzeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: steelingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: cobaltingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: arditeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: manyullyningot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: knightslimeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop tinkerershop.txt: pigironingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: pathdirt
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: pathochretiles
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: coal
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: bronzeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: steelingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: redstone
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: diamond
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: emerald
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: cobaltingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: arditeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: manyullyningot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: knightslimeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: pigironingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: coal
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: bronzeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: steelingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: redstone
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: diamond
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: emerald
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: cobaltingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: arditeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: manyullyningot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: knightslimeingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: pigironingot
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: seared_bricks
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: casting_table
+8.1.2 05-05-2025 15:06:20 ERROR: Culture: byzantines: Unknown good when loading shop townhall.txt: casting_basin
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makegrout
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: cookgrout
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: cookcobaltore
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: cookarditeore
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'grout' for parameter bringbackhomegood: Unknown item: grout
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'seared_brick' for parameter bringbackhomegood: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'cobaltingot' for parameter bringbackhomegood: Unknown item: cobaltingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'arditeingot' for parameter bringbackhomegood: Unknown item: arditeingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'seared_brick,64' for parameter requiredgood: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'seared_bricks,64' for parameter requiredgood: Unknown item: seared_bricks
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'smeltery_controller,10' for parameter requiredgood: Unknown item: smeltery_controller
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'smeltery_drain,10' for parameter requiredgood: Unknown item: smeltery_drain
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'seared_tank,10' for parameter requiredgood: Unknown item: seared_tank
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'faucet,10' for parameter requiredgood: Unknown item: faucet
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'casting_table,10' for parameter requiredgood: Unknown item: casting_table
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'casting_basin,10' for parameter requiredgood: Unknown item: casting_basin
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'bronzeingot,64' for parameter requiredgood: Unknown item: bronzeingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'steelingot,64' for parameter requiredgood: Unknown item: steelingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'cobaltingot,64' for parameter requiredgood: Unknown item: cobaltingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'arditeingot,64' for parameter requiredgood: Unknown item: arditeingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'manyullyningot,64' for parameter requiredgood: Unknown item: manyullyningot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'knightslimeingot,64' for parameter requiredgood: Unknown item: knightslimeingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/miner_byzantine: Error when reading value 'pigironingot,64' for parameter requiredgood: Unknown item: pigironingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makecastingbasin
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makecastingchannel
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makecastingtable
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makefaucet
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makesearedbricks
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makesearedtank
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makesmelterycontroller
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makesmelterydrain
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/smith_byzantine: Error when reading value 'seared_brick,64' for parameter requiredgood: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/smith_byzantine: Error when reading value 'seared_bricks,64' for parameter requiredgood: Unknown item: seared_bricks
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/smith_byzantine: Error when reading value 'smeltery_controller,10' for parameter requiredgood: Unknown item: smeltery_controller
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/smith_byzantine: Error when reading value 'smeltery_drain,10' for parameter requiredgood: Unknown item: smeltery_drain
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/smith_byzantine: Error when reading value 'seared_tank,10' for parameter requiredgood: Unknown item: seared_tank
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/smith_byzantine: Error when reading value 'faucet,10' for parameter requiredgood: Unknown item: faucet
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/smith_byzantine: Error when reading value 'casting_table,10' for parameter requiredgood: Unknown item: casting_table
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/smith_byzantine: Error when reading value 'casting_basin,10' for parameter requiredgood: Unknown item: casting_basin
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makegrout
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: cookgrout
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: cookcobaltore
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: cookarditeore
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makecastingbasin
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makecastingchannel
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makecastingtable
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makefaucet
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makesearedbricks
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makesearedtank
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makesmelterycontroller
+8.1.2 05-05-2025 15:06:20 ERROR: null: Unknown goal: makesmelterydrain
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'grout' for parameter bringbackhomegood: Unknown item: grout
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'seared_brick' for parameter bringbackhomegood: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'cobaltingot' for parameter bringbackhomegood: Unknown item: cobaltingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'arditeingot' for parameter bringbackhomegood: Unknown item: arditeingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'seared_brick,64' for parameter requiredgood: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'seared_bricks,64' for parameter requiredgood: Unknown item: seared_bricks
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'smeltery_controller,10' for parameter requiredgood: Unknown item: smeltery_controller
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'smeltery_drain,10' for parameter requiredgood: Unknown item: smeltery_drain
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'seared_tank,10' for parameter requiredgood: Unknown item: seared_tank
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'faucet,10' for parameter requiredgood: Unknown item: faucet
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'casting_table,10' for parameter requiredgood: Unknown item: casting_table
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'casting_basin,10' for parameter requiredgood: Unknown item: casting_basin
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'bronzeingot,64' for parameter requiredgood: Unknown item: bronzeingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'steelingot,64' for parameter requiredgood: Unknown item: steelingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'cobaltingot,64' for parameter requiredgood: Unknown item: cobaltingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'arditeingot,64' for parameter requiredgood: Unknown item: arditeingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'manyullyningot,64' for parameter requiredgood: Unknown item: manyullyningot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'knightslimeingot,64' for parameter requiredgood: Unknown item: knightslimeingot
+8.1.2 05-05-2025 15:06:20 ERROR: null: VT: byzantines/tinkerer_byzantine: Error when reading value 'pigironingot,64' for parameter requiredgood: Unknown item: pigironingot
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 46/12, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 45/12, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 44/12, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 46/13, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 45/13, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 44/13, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 46/14, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 45/14, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 44/14, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 61/11, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 60/11, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 59/11, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 58/11, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 57/11, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 61/12, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 57/12, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 61/13, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 57/13, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 61/14, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 57/14, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 61/15, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 60/15, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/11/1320b at: 59/15, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 58/15, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 57/15, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/8/13208 at: 60/16, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/7/13207 at: 58/16, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 75/11, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 74/11, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 73/11, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 72/11, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 71/11, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 75/12, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 71/12, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 75/13, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 71/13, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 75/14, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 71/14, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 75/15, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/15/1320f at: 74/15, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/3/13203 at: 73/15, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/15/1320f at: 72/15, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/1/13201 at: 71/15, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/18/13212 at: 74/16, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: byzantines:smeltery_byzantine_A0: smeltery_byzantine_A0: Unknown colour 1/50/18/13212 at: 72/16, skipping it.
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'placebyzantine' for parameter centre: Unknown building: placebyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'grovebyzantine' for parameter start: Unknown building: grovebyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'lumberbyzantine' for parameter start: Unknown building: lumberbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'architectbyzantine' for parameter start: Unknown building: architectbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'fisherbyzantine' for parameter start: Unknown building: fisherbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'quarrybyzantine' for parameter start: Unknown building: quarrybyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'innbyzantine' for parameter start: Unknown building: innbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'playersmallhouse' for parameter player: Unknown building: playersmallhouse
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'villa urbana' for parameter player: Unknown building: villa urbana
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'gifthouse' for parameter player: Unknown building: gifthouse
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'sheepbyzantine' for parameter core: Unknown building: sheepbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'forgebyzantine' for parameter core: Unknown building: forgebyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'workshopbyzantine' for parameter core: Unknown building: workshopbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'tavernbyzantine' for parameter core: Unknown building: tavernbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'vineyardbyzantine' for parameter core: Unknown building: vineyardbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'parkbyzantine' for parameter core: Unknown building: parkbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'silkfarmbyzantine' for parameter secondary: Unknown building: silkfarmbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'quarrybyzantine' for parameter secondary: Unknown building: quarrybyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'crossbyzantine' for parameter secondary: Unknown building: crossbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'bakerybyzantine' for parameter never: Unknown building: bakerybyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'farmbyzantine' for parameter never: Unknown building: farmbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: emporikos: Error when reading value 'basilkabyzantine' for parameter never: Unknown building: basilkabyzantine
+8.1.2 05-05-2025 15:06:20 Exception, printing stack:
+8.1.2 05-05-2025 15:06:20 org.millenaire.common.utilities.MillLog$MillenaireException: No central building found for village: emporikos
+	at org.millenaire.common.culture.VillageType.loadVillageType(VillageType.java:162)
+	at org.millenaire.common.culture.VillageType.loadVillages(VillageType.java:138)
+	at org.millenaire.common.culture.Culture.load(Culture.java:977)
+	at org.millenaire.common.culture.Culture.loadCultures(Culture.java:107)
+	at org.millenaire.common.forge.Mill.init(Mill.java:276)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'fortbyzantine' for parameter centre: Unknown building: fortbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'grovebyzantine' for parameter start: Unknown building: grovebyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'lumberbyzantine' for parameter start: Unknown building: lumberbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'lumberbyzantine' for parameter start: Unknown building: lumberbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'architectbyzantine' for parameter start: Unknown building: architectbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'fisherbyzantine' for parameter start: Unknown building: fisherbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'innbyzantine' for parameter start: Unknown building: innbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'playersmallhouse' for parameter player: Unknown building: playersmallhouse
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'villa urbana' for parameter player: Unknown building: villa urbana
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'gifthouse' for parameter player: Unknown building: gifthouse
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'sheepbyzantine' for parameter core: Unknown building: sheepbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'tavernbyzantine' for parameter core: Unknown building: tavernbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'vineyardbyzantine' for parameter core: Unknown building: vineyardbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'watchtowerbyzantine' for parameter core: Unknown building: watchtowerbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'quarrybyzantine' for parameter core: Unknown building: quarrybyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'workshopbyzantine' for parameter core: Unknown building: workshopbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'parkbyzantine' for parameter core: Unknown building: parkbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'barracksbyzantine' for parameter secondary: Unknown building: barracksbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'watchtowerbyzantine' for parameter secondary: Unknown building: watchtowerbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'basilkabyzantine' for parameter secondary: Unknown building: basilkabyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'quarrybyzantine' for parameter secondary: Unknown building: quarrybyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'crossbyzantine' for parameter secondary: Unknown building: crossbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'wellbyzantine' for parameter secondary: Unknown building: wellbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'forgebyzantine' for parameter never: Unknown building: forgebyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'chapelbyzantine' for parameter never: Unknown building: chapelbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'farmbyzantine' for parameter never: Unknown building: farmbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'bakerybyzantine' for parameter never: Unknown building: bakerybyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'presbyterybyzantine' for parameter never: Unknown building: presbyterybyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: military: Error when reading value 'silkfarmbyzantine' for parameter never: Unknown building: silkfarmbyzantine
+8.1.2 05-05-2025 15:06:20 Exception, printing stack:
+8.1.2 05-05-2025 15:06:20 org.millenaire.common.utilities.MillLog$MillenaireException: No central building found for village: military
+	at org.millenaire.common.culture.VillageType.loadVillageType(VillageType.java:162)
+	at org.millenaire.common.culture.VillageType.loadVillages(VillageType.java:138)
+	at org.millenaire.common.culture.Culture.load(Culture.java:977)
+	at org.millenaire.common.culture.Culture.loadCultures(Culture.java:107)
+	at org.millenaire.common.forge.Mill.init(Mill.java:276)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'churchbyzantine' for parameter centre: Unknown building: churchbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'lumberbyzantine' for parameter start: Unknown building: lumberbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'architectbyzantine' for parameter start: Unknown building: architectbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'farmbyzantine' for parameter start: Unknown building: farmbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'grovebyzantine' for parameter start: Unknown building: grovebyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'innbyzantine' for parameter start: Unknown building: innbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'playersmallhouse' for parameter player: Unknown building: playersmallhouse
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'villa urbana' for parameter player: Unknown building: villa urbana
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'gifthouse' for parameter player: Unknown building: gifthouse
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'sheepbyzantine' for parameter core: Unknown building: sheepbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'bakerybyzantine' for parameter core: Unknown building: bakerybyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'fisherbyzantine' for parameter core: Unknown building: fisherbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'workshopbyzantine' for parameter core: Unknown building: workshopbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'quarrybyzantine' for parameter core: Unknown building: quarrybyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'silkfarmbyzantine' for parameter core: Unknown building: silkfarmbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'shrinebyzantine' for parameter core: Unknown building: shrinebyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'crossbyzantine' for parameter core: Unknown building: crossbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'farmbyzantine' for parameter secondary: Unknown building: farmbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'quarrybyzantine' for parameter secondary: Unknown building: quarrybyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'basilkabyzantine' for parameter secondary: Unknown building: basilkabyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'wellbyzantine' for parameter secondary: Unknown building: wellbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'vineyardbyzantine' for parameter never: Unknown building: vineyardbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'tavernbyzantine' for parameter never: Unknown building: tavernbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'watchtowerbyzantine' for parameter never: Unknown building: watchtowerbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'barracksbyzantine' for parameter never: Unknown building: barracksbyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'presbyterybyzantine' for parameter never: Unknown building: presbyterybyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'forgebyzantine' for parameter never: Unknown building: forgebyzantine
+8.1.2 05-05-2025 15:06:20 ERROR: null: ortodox: Error when reading value 'chapelbyzantine' for parameter never: Unknown building: chapelbyzantine
+8.1.2 05-05-2025 15:06:20 Exception, printing stack:
+8.1.2 05-05-2025 15:06:20 org.millenaire.common.utilities.MillLog$MillenaireException: No central building found for village: ortodox
+	at org.millenaire.common.culture.VillageType.loadVillageType(VillageType.java:162)
+	at org.millenaire.common.culture.VillageType.loadVillages(VillageType.java:138)
+	at org.millenaire.common.culture.Culture.load(Culture.java:977)
+	at org.millenaire.common.culture.Culture.loadCultures(Culture.java:107)
+	at org.millenaire.common.forge.Mill.init(Mill.java:276)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:20 Error when loading culture: 
+8.1.2 05-05-2025 15:06:20 java.lang.NullPointerException: Cannot read field "key" because "v" is null
+	at org.millenaire.common.culture.Culture.load(Culture.java:984)
+	at org.millenaire.common.culture.Culture.loadCultures(Culture.java:107)
+	at org.millenaire.common.forge.Mill.init(Mill.java:276)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:639)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:317)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:295)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142)
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71)
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:263)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:231)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:338)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:535)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:6090)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105)
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good bookshelves is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good gold is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good dye_blue is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good leatherhelmet is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good leatherchest is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good leatherlegs is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good leatherboots is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good steelhelmet is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good steelchest is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good steellegs is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good steelboots is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good diamondhelmet is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good diamondchest is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good diamondlegs is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good diamondboots is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good stonesword is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good steelsword is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good diamondsword is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good bottle is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good netherwart is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good akwardpotion is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good sugar is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Good leather is present twice in the goods list.
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_one,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_two,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_three,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_four,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_five,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_six,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_seven,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_eight,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_nine,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_ten,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_eleven,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_twelve,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: book_franksigmar_thirteen,64,3,10,32,64,true,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: seared_brick,5,3,10,32,64,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: seared_bricks,20,17,32,64,22,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: smeltery_controller,40,35,0,0,43,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: seared_tank,42,36,0,0,45,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: smeltery_drain,30,21,0,0,32,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: faucet,15,8,0,0,17,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: castingchannel,16,9,0,0,18,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: casting_table,35,20,0,0,37,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: casting_basin,35,20,0,0,37,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: cobaltingot,3000,120,0,0,90,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: arditeingot,4000,140,0,0,90,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: manyullyningot,10000,400,0,0,180,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: knightslimeingot,60,50,0,0,55,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: pigironingot,58,47,0,0,52,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: beefjerky,30,15,32,64,20,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: Culture: norman: Unknown good on line: grout,20,10,32,64,15,false,,0
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: childplays
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: childplays1
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: childplays2
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: childplays3
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: eat
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: checkcrops
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: childplays
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: childplays1
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: childplays2
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: childplays3
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: childplays
+8.1.2 05-05-2025 15:06:21 WARNING: VT: norman/merchant_weapons: Starting inv of foreign merchant countains good with null tradeable price: Épée en diamant/0
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: cookardite
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: cookcobalt
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: cookgold
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: cookgrout
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: cookiron
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/miner: Error when reading value 'arditeore' for parameter bringbackhomegood: Unknown item: arditeore
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/miner: Error when reading value 'cobaltore' for parameter bringbackhomegood: Unknown item: cobaltore
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: makecastingbasin
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: makecastingchannel
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: makecastingtable
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: makefaucet
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: makesearedbricks
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: makesearedtank
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: makesmelterycontroller
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: makesmelterydrain
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'seared_brick,64' for parameter requiredgood: Unknown item: seared_brick
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'seared_bricks,64' for parameter requiredgood: Unknown item: seared_bricks
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'smeltery_controller,10' for parameter requiredgood: Unknown item: smeltery_controller
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'smeltery_drain,10' for parameter requiredgood: Unknown item: smeltery_drain
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'seared_tank,10' for parameter requiredgood: Unknown item: seared_tank
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'faucet,10' for parameter requiredgood: Unknown item: faucet
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'casting_table,10' for parameter requiredgood: Unknown item: casting_table
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'casting_basin,10' for parameter requiredgood: Unknown item: casting_basin
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'arditeingot,10' for parameter requiredgood: Unknown item: arditeingot
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'cobaltingot,10' for parameter requiredgood: Unknown item: cobaltingot
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'manyullyningot,10' for parameter requiredgood: Unknown item: manyullyningot
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'knightslimeingot,10' for parameter requiredgood: Unknown item: knightslimeingot
+8.1.2 05-05-2025 15:06:21 ERROR: null: VT: norman/smith: Error when reading value 'pigironingot,10' for parameter requiredgood: Unknown item: pigironingot
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: fuck
+8.1.2 05-05-2025 15:06:21 ERROR: null: Unknown goal: eat
+8.1.2 05-05-2025 15:06:23 ERROR: custom:custom_fishery:norman: Undefined shop type: fishery
+8.1.2 05-05-2025 15:06:23 ERROR: null: artisans: Error when reading value 'small_library' for parameter core: Unknown building: small_library
+8.1.2 05-05-2025 15:06:23 ERROR: null: bourg_autonome: Error when reading value 'small_library' for parameter core: Unknown building: small_library
+8.1.2 05-05-2025 15:06:23 ERROR: null: controlled: Error when reading value 'small_library' for parameter core: Unknown building: small_library
+8.1.2 05-05-2025 15:06:23 ERROR: null: controlled: Error when reading value 'custom_sugarplantation' for parameter custombuilding: Unknown custom building: custom_sugarplantation
+8.1.2 05-05-2025 15:06:23 ERROR: null: customcontrolled: Error when reading value 'custom_sugarplantation' for parameter custombuilding: Unknown custom building: custom_sugarplantation
+8.1.2 05-05-2025 15:06:23 ERROR: null: ecclesiastique: Error when reading value 'small_library' for parameter core: Unknown building: small_library
+8.1.2 05-05-2025 15:06:23 ERROR: null: grosbourg: Error when reading value 'small_library' for parameter core: Unknown building: small_library
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good gold is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good leather is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good sugar is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good stonesword is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good leatherhelmet is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good leatherchest is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good leatherlegs is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good leatherboots is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good bookshelves is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good bottle is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good netherwart is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good akwardpotion is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good coal is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good redstone is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good diamond is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good emerald is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good quartz is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good goldhelmet is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good goldchest is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good goldlegs is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good goldboots is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good woodsword is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good goldsword is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good glowstonedust is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good fermentedspidereye is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good gunpowder is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good dragonbreath is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good rabbitfoot is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good glisteringmelonslice is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good spidereye is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good pufferfish is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good magmacream is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good goldencarrot is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good blazepowder is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good ghasttear is used neither in shops nor for market merchants.
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: townhall
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good bookshelves is listed as a foreign good but is sold by the culture in shop: loneabbey
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good leatherhelmet has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good leatherchest has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good leatherlegs has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good leatherboots has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good steelhelmet has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good steelchest has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good steellegs has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good steelboots has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good diamondhelmet has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good diamondchest has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good diamondlegs has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good diamondboots has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good stonesword has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good steelsword has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good diamondsword has an unregsietred category: tradehelp.genericweapon
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good sugar is listed as a foreign good but is sold by the culture in shop: lonemill
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: pigfarm
+8.1.2 05-05-2025 15:06:23 WARNING: Culture: norman: Trade good leather is listed as a foreign good but is sold by the culture in shop: cattlefarm
+8.1.2 05-05-2025 15:06:23 MAJOR: null: Loading language: fr_fr
+8.1.2 05-05-2025 15:06:23 ERROR: null: Key goal.makeleatherhelmet is present more than once in /home/user/.local/share/PrismLauncher/instances/milltest_minimal/minecraft/mods/millenaire-custom/mods/me_byzantine/languages/en/strings.txt
+8.1.2 05-05-2025 15:06:23 ERROR: null: Key goal.makeleatherchest is present more than once in /home/user/.local/share/PrismLauncher/instances/milltest_minimal/minecraft/mods/millenaire-custom/mods/me_byzantine/languages/en/strings.txt
+8.1.2 05-05-2025 15:06:23 ERROR: null: Key goal.makeleatherlegs is present more than once in /home/user/.local/share/PrismLauncher/instances/milltest_minimal/minecraft/mods/millenaire-custom/mods/me_byzantine/languages/en/strings.txt
+8.1.2 05-05-2025 15:06:23 ERROR: null: Key goal.makeleatherboots is present more than once in /home/user/.local/share/PrismLauncher/instances/milltest_minimal/minecraft/mods/millenaire-custom/mods/me_byzantine/languages/en/strings.txt
+8.1.2 05-05-2025 15:06:23 ERROR: null: Key goal.makesteelhelmet is present more than once in /home/user/.local/share/PrismLauncher/instances/milltest_minimal/minecraft/mods/millenaire-custom/mods/me_byzantine/languages/en/strings.txt
+8.1.2 05-05-2025 15:06:23 ERROR: null: Key goal.makesteelchest is present more than once in /home/user/.local/share/PrismLauncher/instances/milltest_minimal/minecraft/mods/millenaire-custom/mods/me_byzantine/languages/en/strings.txt
+8.1.2 05-05-2025 15:06:23 ERROR: null: Key goal.makesteellegs is present more than once in /home/user/.local/share/PrismLauncher/instances/milltest_minimal/minecraft/mods/millenaire-custom/mods/me_byzantine/languages/en/strings.txt
+8.1.2 05-05-2025 15:06:23 ERROR: null: Key goal.makesteelboots is present more than once in /home/user/.local/share/PrismLauncher/instances/milltest_minimal/minecraft/mods/millenaire-custom/mods/me_byzantine/languages/en/strings.txt
+8.1.2 05-05-2025 15:06:23 ERROR: null: Key goal.makewoodensword is present more than once in /home/user/.local/share/PrismLauncher/instances/milltest_minimal/minecraft/mods/millenaire-custom/mods/me_byzantine/languages/en/strings.txt
+8.1.2 05-05-2025 15:06:23 ERROR: null: Key goal.makestonesword is present more than once in /home/user/.local/share/PrismLauncher/instances/milltest_minimal/minecraft/mods/millenaire-custom/mods/me_byzantine/languages/en/strings.txt
+8.1.2 05-05-2025 15:06:23 ERROR: null: Key goal.makesteelsword is present more than once in /home/user/.local/share/PrismLauncher/instances/milltest_minimal/minecraft/mods/millenaire-custom/mods/me_byzantine/languages/en/strings.txt
+8.1.2 05-05-2025 15:06:23 ERROR: null: Key goal.makesugar is present more than once in /home/user/.local/share/PrismLauncher/instances/milltest_minimal/minecraft/mods/millenaire-custom/mods/me_byzantine/languages/en/strings.txt
+8.1.2 05-05-2025 15:06:23 MAJOR: null: LanguageData loaded: fr_fr. Wand invitem name: Baguette d'invocation

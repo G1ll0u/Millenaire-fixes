@@ -1,0 +1,16 @@
+
+priority=40
+reoccurdelay=1800000
+
+buildingTag=wheatpaddy
+
+sentencekey=plantseeds
+labelkey=plantseeds
+
+heldItems=seeds
+
+croptype=wheat
+
+maxsimultaneousinbuilding=2
+
+seed=seeds
