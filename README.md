@@ -21,6 +21,7 @@ What I do here will eventually get documented in https://github.com/G1ll0u/Mille
 * Custom goals that makes villagers and children even more alive
   * make children play at specific places (with a new custom building name playground)
 * Allow smaller custom buildings (like smaller guard houses)
+* tweak some goals for TPS performance
 
 **Lower priority/unsure :**
 * polish generated buildings
