@@ -30,6 +30,8 @@ My add-on seems to actually fix that !
 ### new custom buildings
 It will allow player to create more custom buildings like bigger farms, more guards houses, playgrounds for children etc.
 
+# Roadmap
+
 **Highest priority**
 * Fix millagers sometimes not marrying because of children having all the same family name (requires FTBUtils)
 * Add fisherman to normans 
@@ -51,6 +53,12 @@ It will allow player to create more custom buildings like bigger farms, more gua
 **unrelated to this project**
 * Make 32x textures for villages that marry good with Conquest_ resource pack
 * Create a full bandit cultur
+
+# Project progress
+| Column 1      | Column 2      |
+| ------------- | ------------- |
+| Cell 1, Row 1 | Cell 2, Row 1 |
+| Cell 1, Row 2 | Cell 1, Row 2 |
 
 ## Knowledge requirements
 ### What should I know ?
