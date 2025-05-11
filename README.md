@@ -15,7 +15,6 @@ What I do here will eventually get documented in https://github.com/G1ll0u/Mille
 
 ## What will this add-on do ?
 
-
 ### new custom buildings
 It will allow player to create more custom buildings like bigger farms, more guards houses, playgrounds for children etc.
 Currently added :
@@ -29,6 +28,8 @@ Currently added :
 Millagers will be more alive, they won't wait anymore for hours in townhall without doing anything. I achieved that by tweaking millagers goals and adding some aesthetic custom buildings.
 * children play on playgrounds
 * wifes supervize children while they play
+* Patrols now work
+ * guards now patrol between different watchtowers and townhall
 
 ### mods compatibility
 Some mods generate things in the world like custom trees (dynamic trees) or custom blocks (like rocks spawning on ground with PVJ). These blocks can sometimes be recognized as "dangerous" by Millénaire and prevents to build anything on it, so it can make villages impossible to find the place to spawn and simply prevent the player from placing a building on it.
@@ -95,8 +96,11 @@ I noticed that wifes creates a big workload on the server and I know which goal 
 * WorldEdit (for bigger custom controlled farms)
 * FTBUtils for the nbtedit command (To fix millagers not moving in new houses)
 
-## Recommended mods :
+## General recommendations :
 
 * Performance mods listed [here](https://red-studio-ragnarok.github.io/Opticraft/) (updated list)
-* Tiquality (for server side lag, will be explained on documentation)
-
+* Migrate to [Cleanroom loader](https://github.com/CleanroomMC/Cleanroom) to run 1.12.2 like modern Minecraft (with java 21+)
+* Tiquality
+  * If Millénaire drains your server resources you can disable ticking for villagers to have huge performance boost. I do it to disable wife to maintain good TPS.
+**/tiquality setentity millenaire:genericasimmfemale TICK_DENIED** <--- shuts down wives (performance mode)
+**/tiquality setentity millenaire:genericasimmfemal DEFAULT** <--- turn wives back on (lag mode)
