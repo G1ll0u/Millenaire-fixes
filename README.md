@@ -80,6 +80,8 @@ I noticed that wifes creates a big workload on the server and I know which goal 
 | custom controlled grove | task not started |
 
 # New features progress
+| Task      | progress      |
+| ------------- | ------------- |
 | New custom goals | On going, already working
 | New custom buildings | On going, already working
 | Add fisherman to normans | done but the fisherman is nude (will be fixed)
