@@ -1,7 +1,11 @@
 # Millénaire-[NAME NOT FOUND ALREADY]
 **Millénaire add-on that tweaks and eventually fixes some Millénaire incompatibilities with mods.**
 
-This is not a new custom culture, it modifies existing ones. I will maybe support modded ones but my priority is on norman culture for the moment
+It's been years I play Millénaire and I came across some problems that I fixed in a way or another.
+This is not a new custom culture, it modifies existing ones. I will maybe support modded ones but my priority is norman culture for the moment. It takes so much times that I prefer to share my knowledge and let others do their own customizations because millénaire is customizable in a way that you don't need to actually code anything. You don't need to know Java, you just need some english basics and how to edit text files.
+
+This add-on is focused on custom controlled villages, the ones that you can build yourself but I will maybe fix some aesthetic issues with existing buildings like dirt under the "controlled townhall" building
+
 
 # Introduction
 I discovered a lot of things about how Millénaire cultures customization works and found that we can make this mod even more interesting.
@@ -11,10 +15,14 @@ What I do here will eventually get documented in https://github.com/G1ll0u/Mille
 
 ## What will this add-on do ?
 
+### custom controlled villages improvements
+
+
 ### millagers improvements
-This add-on will try to make Millénaire more alive, preventing them to wait for hours in townhall. Achieved by tweaking existing millagers goals and adding some aesthetic custom buildings (like a playground place for children).
-It tweaks and add goals to millagers to improve village "flow". (like wifes supervising the kids while they play)
-It fixes patrols, add fisherman and other unavailable roles to normans.
+Millagers will be more alive, they won't wait anymore for hours in townhall without doing anything. I achieved that by tweaking millagers goals and adding some aesthetic custom buildings (like a playground place for children).
+It tweaks and adds goals to millagers to improve the village "flow". (like wifes supervising the kids while they play)
+It fixes patrols, add fisherman and other unavailable like potato plantation to normans.
+
 
 ### mods compatibility
 Some mods generate things in the world like custom trees (dynamic trees) or custom blocks (like rocks spawning on ground with PVJ). These blocks can sometimes be recognized as "dangerous" by Millénaire and prevents to build anything on it, so it can make villages impossible to find the place to spawn and simply prevent the player from placing a building on it.
@@ -22,13 +30,16 @@ Some mods generate things in the world like custom trees (dynamic trees) or cust
 My add-on seems to actually fix that !
 
 #### Actually applies for :
-* DynamicTrees (please, use DramaticTrees updated fork)
+* Support for DynamicTrees* (I recommend to use DramaticTrees updated fork)
 * Biomes O' Plenty
 * Project: Vibrant Journeys
 * Forestry
 
+
 ### new custom buildings
 It will allow player to create more custom buildings like bigger farms, more guards houses, playgrounds for children etc.
+Currently added :
+* custom playgroud (places where children go)
 
 # Roadmap
 
@@ -39,6 +50,7 @@ It will allow player to create more custom buildings like bigger farms, more gua
 * Allow larger custom buildings (like farms)
 * A workaround for the broken custom controlled grove
 * Fix patrols
+* make wifes craft less pathes
 
 **Medium priority**
 * Custom goals that makes villagers and children even more alive
@@ -54,12 +66,20 @@ It will allow player to create more custom buildings like bigger farms, more gua
 * Make 32x textures for villages that marry good with Conquest_ resource pack
 * Create a full bandit cultur
 
-# Project progress
-| Column 1      | Column 2      |
+# Fixes progress
+| Task      | progress      |
 | ------------- | ------------- |
-| Cell 1, Row 1 | Cell 2, Row 1 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
+| Workaround for millagers marriage |  found ! |
+| Workaround for patrols |  found ! |
+| Modded blocks compatibility |  done for the mods listed |
+| goals tweaking for TPS | not tested |
+| custom controlled grove | task not started |
 
+# New features progress
+| New custom goals | On going, already working
+| New custom buildings | On going, already working
+| Add fisherman to normans | done but the fisherman is nude (will be fixed)
+| balance path blocks spamming in townhall |
 ## Knowledge requirements
 ### What should I know ?
 * Know how Millénaire works (my documentation could help with that but still WIP : https://github.com/G1ll0u/Millenaire-fixes/)
@@ -68,4 +88,9 @@ It will allow player to create more custom buildings like bigger farms, more gua
 ## Required mods
 * WorldEdit (for bigger custom controlled farms)
 * FTBUtils for the nbtedit command (To fix millagers not moving in new houses)
+
+## Recommended mods :
+
+* Performance mods listed here (updated list)
+* Tiquality (for server side lag, will be explained on documentation)
 
