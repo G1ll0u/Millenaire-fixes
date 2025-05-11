@@ -29,7 +29,6 @@ Currently added :
 Millagers will be more alive, they won't wait anymore for hours in townhall without doing anything. I achieved that by tweaking millagers goals and adding some aesthetic custom buildings.
 * children play on playgrounds
 * wifes supervize children while they play
-* 
 
 ### mods compatibility
 Some mods generate things in the world like custom trees (dynamic trees) or custom blocks (like rocks spawning on ground with PVJ). These blocks can sometimes be recognized as "dangerous" by Millénaire and prevents to build anything on it, so it can make villages impossible to find the place to spawn and simply prevent the player from placing a building on it.
@@ -85,7 +84,8 @@ I noticed that wifes creates a big workload on the server and I know which goal 
 | New custom goals | On going, already working
 | New custom buildings | On going, already working
 | Add fisherman to normans | done but the fisherman is nude (will be fixed)
-| balance path blocks spamming in townhall |
+| balance path blocks spamming in townhall | done !
+
 ## Knowledge requirements
 ### What should I know ?
 * Know how Millénaire works (my documentation could help with that but still WIP : https://github.com/G1ll0u/Millenaire-fixes/)
@@ -97,6 +97,6 @@ I noticed that wifes creates a big workload on the server and I know which goal 
 
 ## Recommended mods :
 
-* Performance mods listed here (updated list)
+* Performance mods listed [here](https://red-studio-ragnarok.github.io/Opticraft/) (updated list)
 * Tiquality (for server side lag, will be explained on documentation)
 
