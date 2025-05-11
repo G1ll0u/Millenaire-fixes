@@ -15,14 +15,21 @@ What I do here will eventually get documented in https://github.com/G1ll0u/Mille
 
 ## What will this add-on do ?
 
-### custom controlled villages improvements
 
+### new custom buildings
+It will allow player to create more custom buildings like bigger farms, more guards houses, playgrounds for children etc.
+Currently added :
+* playgroud (places where children go to play)
+* fisherman for normans
+* Smaller guard house (less space required)
+* Four guards house (arsenal)
+* Smaller watchtower (less space required
 
 ### millagers improvements
-Millagers will be more alive, they won't wait anymore for hours in townhall without doing anything. I achieved that by tweaking millagers goals and adding some aesthetic custom buildings (like a playground place for children).
-It tweaks and adds goals to millagers to improve the village "flow". (like wifes supervising the kids while they play)
-It fixes patrols, add fisherman and other unavailable like potato plantation to normans.
-
+Millagers will be more alive, they won't wait anymore for hours in townhall without doing anything. I achieved that by tweaking millagers goals and adding some aesthetic custom buildings.
+* children play on playgrounds
+* wifes supervize children while they play
+* 
 
 ### mods compatibility
 Some mods generate things in the world like custom trees (dynamic trees) or custom blocks (like rocks spawning on ground with PVJ). These blocks can sometimes be recognized as "dangerous" by Millénaire and prevents to build anything on it, so it can make villages impossible to find the place to spawn and simply prevent the player from placing a building on it.
@@ -35,11 +42,8 @@ My add-on seems to actually fix that !
 * Project: Vibrant Journeys
 * Forestry
 
-
-### new custom buildings
-It will allow player to create more custom buildings like bigger farms, more guards houses, playgrounds for children etc.
-Currently added :
-* custom playgroud (places where children go)
+### Eventual performance improvements
+I noticed that wifes creates a big workload on the server and I know which goal does that but this goal is essential to the village. I'm working on it because optimizing this goal (make it happen less) can make a huge performance gain.
 
 # Roadmap
 
