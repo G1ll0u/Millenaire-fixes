@@ -71,20 +71,22 @@ I noticed that wifes creates a big workload on the server and I know which goal 
 * Create a full bandit cultur
 
 # Fixes progress
-| Task      | progress      |
-| ------------- | ------------- |
+| Task      | progress      | detail     |
+| ------------- | ------------- | ------------ |
 | Workaround for millagers marriage |  found ! |
-| Workaround for patrols |  found ! |
-| Modded blocks compatibility |  done for the mods listed |
-| goals tweaking for TPS | not tested |
-| custom controlled grove | task not started |
+| Workaround for patrols |  found ! | guards will now patrol on buildings tagged "patrol"
+| Modded blocks compatibility |  on going | fixed villagers recognizing natural blocks as "non-buildable" for DynamicTrees, ProjectVibrantJourney and eventually BiomesOPlenty
+| goals tweaking for TPS | hard to test |
+| custom controlled grove | task not started (but started for DynamicTrees !) |
 
 # New features progress
-| Task      | progress      |
-| ------------- | ------------- |
-| New custom goals | On going, already working
-| New custom buildings | On going, already working
+## Buildings :
+| Task      | progress      | detail     |
+| ------------- | ------------- | ------------ |
+| Farms | On going, already working | custom_farm_carrots, 
 | Add fisherman to normans | done but the fisherman is nude (will be fixed)
+| make lumberman gather dynamictrees | done | 
+
 | balance path blocks spamming in townhall | done !
 
 ## Knowledge requirements
